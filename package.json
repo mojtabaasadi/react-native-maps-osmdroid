@@ -59,5 +59,8 @@
     "android": {
       "sourceDir": "./lib/android"
     }
+  },
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0"
   }
 }
